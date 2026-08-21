@@ -21,3 +21,6 @@ build/
 # 环境变量/密钥
 .env
 .env.local
+
+# vite构建
+dist
