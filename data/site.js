@@ -15,12 +15,12 @@ export const home = {
     linkLabel: "打开作品",
   },
   identity: {
-    motto: "我们称之为路的，不过是彷徨",
+    motto: "已识乾坤大，尤怜草木青",
     learning: "零到全栈",
   },
 };
 
 export const textLab = {
-  heroTitle: "hi文字实验室",
+  heroTitle: "文字实验室",
   heroSubtitle: "拼音和情绪，挖掘中文里的细节",
 };

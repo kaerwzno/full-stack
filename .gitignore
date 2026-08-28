@@ -1,26 +1,19 @@
-# 系统垃圾文件
-.DS_Store
-Thumbs.db
-*.Zone.Identifier
-
-# 编辑器本地文件
-.vscode/
-.idea/
-
-# 日志和临时文件
-*.log
-*.tmp
-
-# Node.js 依赖（以后全栈阶段会用到）
+# dependencies
 node_modules/
 
-# 构建产物
-dist/
+# next.js
+.next/
+out/
+
+# production
 build/
+dist/
 
-# 环境变量/密钥
-.env
-.env.local
+# editor
+.vscode/*
+!.vscode/extensions.json
 
-# vite构建
-dist
+# misc
+.DS_Store
+*.log
+.env*
